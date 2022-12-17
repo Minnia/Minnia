@@ -13,3 +13,5 @@
 
 - ⚡ Fun fact: I used to work as an urban planner before
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Background Color?blue&logo=<LinkedIn>&logoColor=white)
+
