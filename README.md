@@ -1,4 +1,6 @@
-### Hi there! I'm Jasmine software developer since 2019 👋
+### Hi there! 👋
+
+## I'm Jasmine, software developer since 2019
 
 
 - 🔭 I’m currently working at Redmind as a Fullstack developer
