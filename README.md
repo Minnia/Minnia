@@ -13,5 +13,7 @@
 
 - ⚡ Fun fact: I used to work as an urban planner before
 
-![linkedin](https://img.shields.io/badge/LinkedIn-blue?style-for-the-badge&logo=<LinkedIn>&logoColor=white)   ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+[![Minnia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasmineP)](https://github.com/JasmineP/github-readme-stats)
+
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
