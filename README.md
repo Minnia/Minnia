@@ -5,7 +5,15 @@
 
 - 🔭 I’m currently working at Redmind as a Fullstack developer
 
-- 🌱 I’m currently learning more about NextJS and Python in order to improve myself
+- 🌱 I’m currently working on a bunch of different things
+- On a professional level
+    * Learning more about NextJS
+- In my free time 
+    * Refreshing my Python knowledge
+    * Building a fullstack app called SLAPI (SL-API),
+      taking on endpoints from TrafikLab for a user to 
+      be able to get themselves around Stockholm, in a 
+      better way than today
 
 - 👯 I’m looking to collaborate on any fun projects you have going on
 
@@ -13,7 +21,15 @@
 
 - ⚡ Fun fact: I used to work as an urban planner before
 
-[![Minnia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minnia)](https://github.com/Minnia/github-readme-stats)
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minnia)](https://github.com/Minnia/SLAPI)
+
+## Commits
+
+[![Minnia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minnia&count_private=true&show_icons=true&theme=dark)](https://github.com/Minnia/github-readme-stats)
+
+## Find me on
 
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
