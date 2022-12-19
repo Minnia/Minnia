@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at Redmind as a Fullstack developer
 
-- 🌱 I’m currently working on a bunch of different things
+- 🌱 I’m currently working on a few different projects, both at work but also on my free time,
 - On a professional level
     * Learning more about NextJS
 - In my free time 
