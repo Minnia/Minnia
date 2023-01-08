@@ -57,8 +57,6 @@
 
 ## Commits and streaks
 
-[![Minnia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minnia&count_private=true&show_icons=true&theme=dark)](https://github.com/Minnia/github-readme-stats)
-
-![image](https://github-readme-streak-stats.herokuapp.com/?user={Minnia})
+[![Minnia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minnia&count_private=true&show_icons=true&theme=dark)](https://github.com/Minnia/github-readme-stats) ![image](https://github-readme-streak-stats.herokuapp.com/?user={Minnia})
 
 
