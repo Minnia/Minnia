@@ -20,7 +20,13 @@
 
 - ⚡ Fun fact: I used to work as an urban planner before
 
-## Experience with
+## Connect with me on
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasmine-pishnemazi-aa4835bb/) 
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Minnia)
+
+
+## 📊 Experience with ⬇️ 
 
 #### Note: I've probably forgotten a few things but am adding continuously 😊 
 
@@ -31,6 +37,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![image](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
@@ -51,8 +58,4 @@
 ## Commits
 
 [![Minnia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minnia&count_private=true&show_icons=true&theme=dark)](https://github.com/Minnia/github-readme-stats)
-
-## Find me on
-
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
