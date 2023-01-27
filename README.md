@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently working on a few different projects, both at work but also on my free time,
 - On a professional level
-    * Learning more about NextJS
+    * Learning more about NestJS
+    * Project management
+    * Full stack development for websites and apps 
 - In my free time 
     * Refreshing my Python knowledge
     * Building a fullstack app called SLAPI (SL-API),
